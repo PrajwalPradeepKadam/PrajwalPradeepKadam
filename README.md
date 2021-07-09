@@ -2,19 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on small java project
+- 🔭 I’m currently working on core java project
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...__a_t_h_a_r_v_a_
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Connect with me:
+-
 
 
-[<img align="left" alt="Instagram" width="32px" src="https://raw.githubusercontent.com/aniket1004/aniket1004/main/img/instagram.png" />][instagram]
 
 
 
