@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="c" width="26px" src="img/c.png" />
