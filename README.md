@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 
 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalkadam7020&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrajwalPradeepKadam&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
 <br />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalkadam7020&hide_border=true&theme=merko" width="45%" height="160px">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalPradeepKadam&hide_border=true&theme=merko" width="45%" height="160px">
 <br />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkadam7020&layout=compact&theme=merko" width="45%" height="160px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalPradeepKadam&layout=compact&theme=merko" width="45%" height="160px"/>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=prajwalkadam7020&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<img src="https://activity-graph.herokuapp.com/graph?username=PrajwalPradeepKadam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
