@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 <br />
 
-[website]: https://swapniladhav.netlify.app
-[instagram]: https://instagram.com/ll_.swapnil.willianrod_ll
-[linkedin]: https://www.linkedin.com/in/swapnil-adhav-48b094189/
-[twitter]: https://twitter.com/SwapnilAdhav10/
+[instagram]: https://www.instagram.com/__a_t_h_a_r_v_a_/
+
 
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalkadam7020&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
