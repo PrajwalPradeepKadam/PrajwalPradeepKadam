@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on core java project
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular FrameWork And TypeScript
 -
 
 
