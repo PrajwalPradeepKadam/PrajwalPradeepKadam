@@ -1,9 +1,6 @@
 ### Hola, I'm Prajwal !👋
 
-
-- 🔭 I’m currently working on core java project
 - 🌱 I’m currently learning Angular FrameWork And TypeScript
--
 
 
 
