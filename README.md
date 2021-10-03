@@ -1,6 +1,7 @@
 ### Hola, I'm Prajwal !👋
 
-- 🌱 I’m currently learning Angular FrameWork And TypeScript
+- 🌱 I’m currently learning on Angular  
+-🔭  HackerRank Profile :https://www.hackerrank.com/atharvak3_2000
 
 
 
