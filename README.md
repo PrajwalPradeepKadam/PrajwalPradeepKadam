@@ -1,7 +1,7 @@
 ### Hola, I'm Prajwal !👋
 
 - 🌱 I’m currently learning on Angular  
--🔭  HackerRank Profile :https://www.hackerrank.com/atharvak3_2000
+- 🔭  HackerRank Profile :https://www.hackerrank.com/atharvak3_2000
 
 
 
