@@ -1,6 +1,6 @@
 ### Hola, I'm Prajwal !👋
 
-- 🌱 I’m currently learning Angular  
+- 🌱 I’m currently learning react 
 - 🔭  HackerRank Profile :https://www.hackerrank.com/atharvak3_2000
 
 
