@@ -1,4 +1,4 @@
-### Hola, I'm Prajwal !👋
+### HELLO, I'm Prajwal !👋
 - 🔭  HackerRank Profile :https://www.hackerrank.com/atharvak3_2000
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imPrajwalKadam&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
