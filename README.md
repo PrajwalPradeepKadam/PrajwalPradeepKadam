@@ -1,8 +1,7 @@
 ### hello, I'm Prajwal !👋
 - 🔭  HackerRank Profile :https://www.hackerrank.com/atharvak3_2000
 -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imPrajwalKadam&show_icons=true&custom_title=My GitHub Stats&count_private=true&theme=merko" /></p>
-<br />
+<p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imPrajwalKadam&hide_border=true&theme=merko" width="45%" height="160px">
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPrajwalKadam&layout=compact&theme=merko" width="45%" height="160px"/>
